@@ -2,6 +2,7 @@ const Hard = () => {
   return (
     <section className="hard_skills">
       <div className="container">
+        <h4>Hard skills</h4>
         <ul>
           <li>HTML5, CSS3</li>
           <li>Responsive/Adaptive Design</li>

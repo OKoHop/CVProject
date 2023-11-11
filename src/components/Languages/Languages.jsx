@@ -2,6 +2,7 @@ const Languages = () => {
   return (
     <section className="languages">
       <div className="container">
+        <h4>Languages</h4>
         <ul>
           <li>Ukrainian - Native</li>
           <li>Russian - Native</li>
