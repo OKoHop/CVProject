@@ -5,10 +5,8 @@ const Experiens = () => {
         <h2>Projects experience</h2>
         <ul>
           <li>
-            <a href="https://okohop.github.io/goit-markup-hw-06/">WEBSTUDIO</a>
-            <a href="https://github.com/OKoHop/goit-markup-hw-06">
-              GitHub-Repo
-            </a>
+            <a href="https://okohop.github.io/WEB_STUDIO/">WEBSTUDIO</a>
+            <a href="https://github.com/OKoHop/WEB_STUDIO">GitHub-Repo</a>
             <p>Technologies used: HTML5, CSS3, JS(ES6)</p>
             <p>
               A website about web studio. Responsive layout, modal windows,
